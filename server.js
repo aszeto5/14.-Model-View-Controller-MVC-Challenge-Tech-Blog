@@ -10,9 +10,6 @@ const hbs = exphbs.create({
 });
 const session = require('express-session');
 const SequelizeStore = require('connect-session-sequelize')(session.Store);
-const store = new SequelizeStore({
-    db :db,
-});
 
 const sess = {
     secret: process.env.DB_SECRET,
@@ -25,8 +22,6 @@ const sess = {
         expiration: 1000 * 60 * 30 // will expire after 30 minutes
     })
 };
-
-store.sync();
 
 const app = express();
 const PORT = process.env.PORT || 3001;
