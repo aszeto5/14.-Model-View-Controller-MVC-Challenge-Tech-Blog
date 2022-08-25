@@ -8,5 +8,23 @@
     "express-session": "^1.17.3",
     "mysql2": "^2.3.3",
     "sequelize": "^6.21.3"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "14.-model-view-controller-mvc-challenge-tech-blog",
+  "description": "## Description Writing about tech can be just as important as making it. Developers spend plenty of time creating new applications and debugging existing codebases, <br/> but most developers also spend at least some of their time reading and writing about technical concepts, recent advancements, and new technologies. A <br/> simple Google search for any concept covered in this course returns thousands of think pieces and tutorials from developers of all skill levels!  Your<br/> challenge this week is to build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other <br/> developers’ posts as well. You’ll build this site completely from scratch and deploy it to Heroku. Your app will follow the MVC paradigm in its <br/> architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aszeto5/14.-Model-View-Controller-MVC-Challenge-Tech-Blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aszeto5/14.-Model-View-Controller-MVC-Challenge-Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/aszeto5/14.-Model-View-Controller-MVC-Challenge-Tech-Blog#readme"
 }
