@@ -34,4 +34,7 @@ Dashboard: <br/>
 <br/>
 Create Post Form: <br/>
 
+![image](https://user-images.githubusercontent.com/100250064/187018241-4b505594-acfe-45c4-9f3b-46fbc4583650.png)
+
+
 
