@@ -27,9 +27,11 @@ Deployed Application: https://techblog14ucb.herokuapp.com/
 <br/>
 ## Tech Blog Preview
 Dashboard: <br/>
+
 ![image](https://user-images.githubusercontent.com/100250064/187018107-1c4caf25-065b-44c9-ad22-79ec13078b01.png)
+
 <br/>
 <br/>
 Create Post Form: <br/>
-Web capture_26-8-2022_233328_techblog14ucb.herokuapp.com
+
 
