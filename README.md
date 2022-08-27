@@ -31,5 +31,5 @@ Dashboard: <br/>
 <br/>
 <br/>
 Create Post Form: <br/>
-![image](https://user-images.githubusercontent.com/100250064/187018135-9ea116d2-0a78-47a4-8a35-249819908198.png)
+Web capture_26-8-2022_233328_techblog14ucb.herokuapp.com
 
